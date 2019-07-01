@@ -1,0 +1,6 @@
+github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802 h1:1BDTz0u9nC3//pOCMdNH+CiXJVYJh5UQNCOBG7jbELc=
+github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
+github.com/gen2brain/shm v0.0.0-20180314170312-6c18ff7f8b90 h1:QagTG5rauLt6pVVEhnVSrlIX4ifhVIZOwmw6x6D8TUw=
+github.com/gen2brain/shm v0.0.0-20180314170312-6c18ff7f8b90/go.mod h1:uF6rMu/1nvu+5DpiRLwusA6xB8zlkNoGzKn8lmYONUo=
+github.com/kbinani/screenshot v0.0.0-20190612115439-c3c7d93696f3 h1:YgZb8qEpkCdV8Bw4OylA782sbh7YD7oN4JSDS3kNooQ=
+github.com/kbinani/screenshot v0.0.0-20190612115439-c3c7d93696f3/go.mod h1:f8GY5V3lRzakvEyr49P7hHRYoHtPr8zvj/7JodCoRzw=
